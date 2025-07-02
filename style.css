@@ -4,5 +4,5 @@ header {
     background-color: lightpink;
 }
 menu img {
-    max-width: fit-content;
+   object-fit: fill;
 }
