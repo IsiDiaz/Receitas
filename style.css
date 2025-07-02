@@ -3,3 +3,6 @@ header {
     padding: 1%;
     background-color: lightpink;
 }
+menu img {
+    max-width: fit-content;
+}
